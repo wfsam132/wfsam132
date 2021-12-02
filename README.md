@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sammy
+- 👋 Hi, I’m @wfsam132
 - 👀 I’m interested in coding web
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on ...
