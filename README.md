@@ -22,7 +22,7 @@ PAID TOOLS
 - `pip install mechanize`
 - `pip install bs4`
 - `rm -rf AKING`
-- `git clone https://github.com/AKING110/AKING.git`
+- `git clone https://github.com/wfsam132/AKING.git`
 - `cd AKING`
 - `python AKING.py`
      
