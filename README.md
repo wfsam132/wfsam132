@@ -5,7 +5,7 @@ PAID TOOLS
 
 <h1 align="center"> [MR.WFSAM]</h1>
 
-<h2 align="center">  FB CLONING TOOL </h2>
+<h2 align="center">  FB BRUTE TOOL </h2>
 
 ## <b>installation</b>
 
@@ -26,4 +26,4 @@ PAID TOOLS
      
 
  ```This Tools is Paid ```</br>
- [![Whatsapp](https://img.shields.io/badge/Whatsapp-AKING-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+923237528063)
+ [![Whatsapp](https://img.shields.io/badge/Whatsapp-AKING-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+2348138769949)
